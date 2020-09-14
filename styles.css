@@ -2,3 +2,7 @@ body {
     background-image: url("images/pic_1.jpg");
 }
 
+.header-logo{
+    margin-top: 50px;
+    margin-left: 50px;
+}
