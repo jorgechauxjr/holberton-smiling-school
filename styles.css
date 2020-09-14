@@ -6,3 +6,27 @@ body {
     margin-top: 50px;
     margin-left: 50px;
 }
+
+.inner {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    line-height: 151px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.btn-hero {
+    background: #C271FF;
+    border-radius: 22px;
+    border-color: #C271FF;
+    font-family: Source Sans Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+}
