@@ -190,5 +190,9 @@ color: #FFFFFF;
 .my-smile {
     color: #FFFFFF;
     opacity: 0.35;
-    padding-top: 100px;
+    padding-top: 150px;
+}
+
+.my-col-smile-footer {
+    padding-top: 80px;
 }
