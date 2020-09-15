@@ -76,3 +76,18 @@ text-align: center;
 
 color: #FFFFFF;
 }
+
+/* 2-TASK 1-homepage.html */
+
+.carousel {
+    background: #C271FF;
+}
+
+.my-carousel-picture {
+    margin-left: 300px;
+}
+
+.my-quote-carousel {
+    margin-left: 0;
+    margin-right: 100px;
+}
