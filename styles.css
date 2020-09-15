@@ -91,3 +91,18 @@ color: #FFFFFF;
     margin-left: 0;
     margin-right: 100px;
 }
+
+/* 3 TASK 2-homepage.html */
+
+.my-card-background {
+    background: white;
+}
+
+.my-card-person-name {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #C271FF;
+}
