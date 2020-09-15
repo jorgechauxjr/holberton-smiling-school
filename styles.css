@@ -107,17 +107,17 @@ color: #FFFFFF;
     color: #C271FF;
 }
 
-/* 4 TASK 3-homepage.html */
+/* 3 TASK 2-homepage.html */
 
 .purple-tutorial {
     font-family: Source Sans Pro;
-font-style: normal;
-font-weight: bold;
-font-size: 32px;
-line-height: 40px;
-text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
 
-color: #C271FF;
+    color: #C271FF;
 }
 
 .my-tutorial {
@@ -129,4 +129,53 @@ color: #C271FF;
     text-align: center;
 
     color: #071629
+}
+
+/* 4 TASK 3-homepage.html */
+
+.my-member-background {
+    background-color: #071629;
+}
+
+.my-member-title {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}
+
+.my-member-paragraph {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 26px;
+color: #FFFFFF;
+}
+
+.purple-membership {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 40px;
+    color: #C271FF;
+}
+
+.my-membership {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+}
+
+.my-container-member {
+    padding-top: 100px;
+    padding-bottom: 80px;
 }
