@@ -106,3 +106,27 @@ color: #FFFFFF;
     line-height: 27px;
     color: #C271FF;
 }
+
+/* 4 TASK 3-homepage.html */
+
+.purple-tutorial {
+    font-family: Source Sans Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #C271FF;
+}
+
+.my-tutorial {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #071629
+}
