@@ -196,3 +196,33 @@ color: #FFFFFF;
 .my-col-smile-footer {
     padding-top: 80px;
 }
+
+/* ==================== PRICING PAGE ========================== */
+/* TASK 7 Pricing header */
+
+/* .header-pricing {
+    background-image: url("images/pic_2.jpg");
+    width: 1350px;
+    height: 1000px;
+    padding-top: 50px;
+} */
+
+.my-pricing-title {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.my-go-pro {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 75px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
