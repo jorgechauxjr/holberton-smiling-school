@@ -227,7 +227,7 @@ color: #FFFFFF;
     color: #FFFFFF;
 }
 
-/* TASK 8 */
+/* TASK 8  1-pricing.html*/
 
 .my-price {
     font-family: Source Sans Pro;
@@ -242,4 +242,19 @@ color: #FFFFFF;
     font-weight: normal;
     font-size: 12px;
     line-height: 15px;
+}
+
+/* TASK10   3-pricing.html*/
+
+.my-faq {
+    background-color: white;
+}
+
+.faq-text {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 75px;
+    color: #071629;
 }
