@@ -258,3 +258,23 @@ color: #FFFFFF;
     line-height: 75px;
     color: #071629;
 }
+
+/* TASK 12  0-courses.html */
+
+.my-txt-header {
+    font-family: Coiny;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.my-smile-courses {
+    font-family: Coiny;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 35px;
+    color: #C271FF;
+}
