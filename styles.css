@@ -226,3 +226,20 @@ color: #FFFFFF;
 
     color: #FFFFFF;
 }
+
+/* TASK 8 */
+
+.my-price {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 55px;
+}
+
+.my-sub-price {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+}
